@@ -1,0 +1,18 @@
+Pop-up messages with auto closing after delay for iOS.
+
+Using PTHintController
+===================================
+
+Add files into your project
+
+Import class
+
+	import "PTHintController.h"
+	
+Show hint 2 second
+
+	[[PTHintController sharedHint] setText:@"Статья отправлена в Twitter"];
+    [[PTHintController sharedHint] showInView:self.view duration:2];
+
+
+![PTHintController](http://farm7.static.flickr.com/6044/6302174067_7883bdde75.jpg)
