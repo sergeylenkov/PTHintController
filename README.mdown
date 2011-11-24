@@ -1,7 +1,6 @@
-Pop-up messages with auto closing after delay for iOS.
+### Pop-up messages with auto closing after delay for iOS.
 
-Using PTHintController
-===================================
+#### Using PTHintController
 
 Add files into your project
 
